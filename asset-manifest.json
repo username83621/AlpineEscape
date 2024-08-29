@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/AlpineEscape/static/css/main.7a7f27a1.css",
-    "main.js": "/AlpineEscape/static/js/main.dad2593c.js",
-    "static/js/453.419a5d54.chunk.js": "/AlpineEscape/static/js/453.419a5d54.chunk.js",
-    "static/media/tur castele.jpg": "/AlpineEscape/static/media/tur castele.00db2e77e35a5476f5e3.jpg",
-    "static/media/castelul bran.jpg": "/AlpineEscape/static/media/castelul bran.22395ed0e0729a89d650.jpg",
-    "static/media/brown bears.jpg": "/AlpineEscape/static/media/brown bears.e04def3bcd79cd9096a0.jpg",
-    "index.html": "/AlpineEscape/index.html",
-    "main.7a7f27a1.css.map": "/AlpineEscape/static/css/main.7a7f27a1.css.map",
-    "main.dad2593c.js.map": "/AlpineEscape/static/js/main.dad2593c.js.map",
-    "453.419a5d54.chunk.js.map": "/AlpineEscape/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/username83621/AlpineEscape/static/css/main.7a7f27a1.css",
+    "main.js": "/username83621/AlpineEscape/static/js/main.624e8988.js",
+    "static/js/453.419a5d54.chunk.js": "/username83621/AlpineEscape/static/js/453.419a5d54.chunk.js",
+    "static/media/tur castele.jpg": "/username83621/AlpineEscape/static/media/tur castele.00db2e77e35a5476f5e3.jpg",
+    "static/media/castelul bran.jpg": "/username83621/AlpineEscape/static/media/castelul bran.22395ed0e0729a89d650.jpg",
+    "static/media/brown bears.jpg": "/username83621/AlpineEscape/static/media/brown bears.e04def3bcd79cd9096a0.jpg",
+    "index.html": "/username83621/AlpineEscape/index.html",
+    "main.7a7f27a1.css.map": "/username83621/AlpineEscape/static/css/main.7a7f27a1.css.map",
+    "main.624e8988.js.map": "/username83621/AlpineEscape/static/js/main.624e8988.js.map",
+    "453.419a5d54.chunk.js.map": "/username83621/AlpineEscape/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a7f27a1.css",
-    "static/js/main.dad2593c.js"
+    "static/js/main.624e8988.js"
   ]
 }
