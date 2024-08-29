@@ -1,0 +1,21 @@
+
+
+.navbar {
+	position: fixed;
+	z-index: 100;
+	width: 100vw;
+	background-color: rgba(194, 194, 187, 0.5);
+	border: none;
+	padding: 10px 20px;
+	/*display: flex;*/
+  /*justify-content: space-between;*/
+  align-items: center;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  backdrop-filter: blur(10px); /* Apply blur effect */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+}
+
+
+#go-to-top {
+  scroll-margin-top: 150px;
+}

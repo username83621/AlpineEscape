@@ -1,0 +1,16 @@
+
+
+body {
+  background-color: rgb(137, 163, 155);
+	margin: 0;
+}
+
+a {
+  text-decoration: none;
+	color: black;
+}
+
+
+.attraction-title {
+  -webkit-text-stroke: 2px rgb(0, 0, 0, 1.0);
+}
